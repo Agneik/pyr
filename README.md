@@ -1,6 +1,6 @@
-# UPAX SLS GRUPO DRAGON
+# UPAXER SLS COGNITO SECURITY
 
-Repositorio que incluye los Web Services para el Proyecto de Citas Grupo Dragon
+Repositorio que incluye los servicios para la implementación de cognito.
 
 ## Prerequisitos
 
